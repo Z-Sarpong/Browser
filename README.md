@@ -1,1 +1,1 @@
-# Browser
+# AI Browser
